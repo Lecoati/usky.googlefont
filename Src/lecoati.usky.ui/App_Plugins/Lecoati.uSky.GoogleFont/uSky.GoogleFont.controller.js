@@ -104,6 +104,8 @@ angular.module("umbraco")
 			                    angular.forEach($scope.fonts, function (value, key) {
 			                        if (value.family == node.oGoogleFont.family) {
 			                            node.oVariants = value.variants;
+			                            if (value.variants[0] != "regular")
+			                                node.oVariant = value.variants[0];
 			                        }
 			                    });
 			                }
