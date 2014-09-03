@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+  <file><guid>2fff397a-7650-4713-9fae-55ac03d907ab.cs</guid><orgPath>/App_Code</orgPath><orgName>uSky.GoogleFontController.cs</orgName></file><file><guid>bff206c4-d213-4cd8-84d7-f2a37e11e903.css</guid><orgPath>/App_Plugins/Lecoati.uSky.GoogleFont/lib</orgPath><orgName>colorpicker.css</orgName></file><file><guid>607164b6-40bc-48af-a9ed-edf236e1a0f7.js</guid><orgPath>/App_Plugins/Lecoati.uSky.GoogleFont/lib</orgPath><orgName>colorpicker.js</orgName></file><file><guid>9330df29-2147-42a6-a3e6-9df527092820.js</guid><orgPath>/App_Plugins/Lecoati.uSky.GoogleFont/lib</orgPath><orgName>tinycolor.js</orgName></file><file><guid>0eef41fd-99c6-4b87-aaa6-0f8cf25af2d9.css</guid><orgPath>/App_Plugins/Lecoati.uSky.GoogleFont/lib</orgPath><orgName>uSky.GoogleFont.css</orgName></file><file><guid>326c1dcc-9657-4f54-ba73-3926a0949da8.manifest</guid><orgPath>/App_Plugins/Lecoati.uSky.GoogleFont</orgPath><orgName>package.manifest</orgName></file><file><guid>8afadc4f-1e16-4765-bcea-f281fa238a36.js</guid><orgPath>/App_Plugins/Lecoati.uSky.GoogleFont</orgPath><orgName>uSky.GoogleFont.controller.js</orgName></file><file><guid>347887bb-1687-467f-bce6-44264eeb42d5.html</guid><orgPath>/App_Plugins/Lecoati.uSky.GoogleFont</orgPath><orgName>uSky.GoogleFont.html</orgName></file><file><guid>bc7859cb-367c-45db-9aee-5f607bb60c0c.cshtml</guid><orgPath>/Views/Partials</orgPath><orgName>uSkyGoogleFont.cshtml</orgName></file></files>
+  <info>
+    <package>
+      <name>uSky.googleFont</name>
+      <version>1.0.0</version>
+      <license url="http://opensource.org/licenses/MIT">MIT License</license>
+      <url>http://www.lecoati.com/</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>LECOATI</name>
+      <website>http://www.lecoati.com/</website>
+    </author>
+    <readme><![CDATA[]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+</umbPackage>
